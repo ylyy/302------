@@ -21,6 +21,7 @@ use_directory_urls: false
 
 nav:
   - "Home": index.md
+  - "2026年沉浸式翻译": 2026年沉浸式翻译深度解析-提升全球跨语言阅读效率的终极指南.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
